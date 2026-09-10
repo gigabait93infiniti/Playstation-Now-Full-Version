@@ -235,3 +235,6 @@ This repository serves as the official landing page for PlayStation Now. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PlayStation Now today!**
+
+---
+**Last updated:** 2026-09-10 09:25:49 UTC
