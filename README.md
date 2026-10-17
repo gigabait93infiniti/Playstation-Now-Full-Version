@@ -237,4 +237,4 @@ This repository serves as the official landing page for PlayStation Now. The sof
 **Get the most recent version of PlayStation Now today!**
 
 ---
-**Last updated:** 2026-10-16 23:17:58 UTC
+**Last updated:** 2026-10-17 03:30:26 UTC
